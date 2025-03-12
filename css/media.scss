@@ -1,0 +1,93 @@
+@media only screen and (max-width: 430px) {
+
+    html,
+    body {
+        overflow-x: hidden;
+    }
+
+    .header_container {
+        max-width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .header_container nav {
+        display: none;
+    }
+
+    .page_description {
+        max-width: 100%;
+        display: block;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .photo_team img {
+        max-width: 375px;
+        max-height: 150px;
+        margin-left: 25px;
+        margin-right: 10px;
+    }
+
+    .idea {
+        margin-bottom: 50px;
+    }
+
+    .details {
+        display: block;
+        max-width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .honors {
+        display: none;
+    }
+
+    main .container_team h2 {
+        max-width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-family: Montserrat;
+        font-weight: 700;
+        font-size: 38px;
+        background: linear-gradient(298deg, #f0145a 0%, #ef8080 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 60px;
+        padding: 0;
+    }
+
+    .members {
+        max-width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .footer_container {
+        max-width: 100%;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .padd {
+        padding: 10px 10px;
+    }
+
+    .number {
+        left: 70px;
+        bottom: 24px;
+    }
+
+    .email {
+        left: 190px;
+        bottom: 26px;
+    }
+
+    .hlegal {
+        font-size: 10px;
+        right: 10px;
+        top: 14px;
+    }
+}
