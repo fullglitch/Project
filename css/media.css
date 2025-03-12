@@ -18,10 +18,7 @@
     margin-right: 10px;
   }
   .photo_team img {
-    max-width: 375px;
-    max-height: 150px;
-    margin-left: 10px;
-    margin-right: 10px;
+    max-width: 100%;
   }
   .idea {
     margin-bottom: 50px;
